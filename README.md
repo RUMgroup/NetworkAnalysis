@@ -11,8 +11,8 @@ Structural analysis of yeast protein interaction network, module detection and v
 
 <br>
 
-Requires:
-Cytoscape 3.2.1+ with Java 8 and the CyREST app installed
+Requires: <br>
+Cytoscape 3.2.1+ with Java 8 and the CyREST app installed <br>
 R Packages: httr, RSONIO, gplots, RCy3
 
 
